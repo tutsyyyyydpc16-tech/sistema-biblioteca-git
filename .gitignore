@@ -1,0 +1,18 @@
+# Arquivos compilados do Java
+*.class
+
+# Pacotes Java compilados
+*.jar
+
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+*.iml
+
+# Diretórios de compilação
+out/
+build/
+target/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
